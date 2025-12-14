@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+.DS_Store
+data/
+*.db
+*.db-shm
+*.db-wal
+*.json
+!package.json
+!package-lock.json
